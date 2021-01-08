@@ -1,0 +1,30 @@
+table  { 
+
+  margin-left: 20px;
+  margin-right: 20px;
+  border: thin;
+  border-color: black;
+  border-spacing: 4px;
+  caption-side: top;
+  border-style: solid;
+  border-collapse: collapse;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+td,th {
+
+
+    border: thin;
+    padding: 5px;
+} 
+
+
+caption  {
+
+    font-style: bold;
+    padding: top;
+    border: thin;
+}
+
+
